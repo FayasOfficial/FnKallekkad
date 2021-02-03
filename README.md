@@ -1,5 +1,7 @@
-### Hi there 👋
+# Fayas
 
+
+### Accounts
 
 <a href="https://github.com/FnKallekkad">
   <img align="center" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
