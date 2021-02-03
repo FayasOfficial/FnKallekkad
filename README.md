@@ -1,4 +1,6 @@
-<img align="centre" alt="Profile" width="30px" src="https://avatars.githubusercontent.com/u/76828314?s=460&u=13967485f13a669a5d59bf56bd1ca6dba28c008c&v=4" />
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/76828314?s=460&u=13967485f13a669a5d59bf56bd1ca6dba28c008c&v=4" />
+</p>
 
 
 # Fayas
