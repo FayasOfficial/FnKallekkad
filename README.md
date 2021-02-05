@@ -18,11 +18,7 @@
 
 ### Accounts
 
-[GitHub](https://github.com/FnKallekkad)
-[Twitter](https://twitter.com/FnKallekkad)
-[Telegram](https://telegram.me/FNPROJECTS)
-[YouTube](https://youtube.com/channel/UCezxW4T3jDcmX1bccbsGdNg)
-[Gmail](mailto:fnkallekkad@gmail.com)
+[GitHub](https://github.com/FnKallekkad) | [Twitter](https://twitter.com/FnKallekkad) | [Telegram](https://telegram.me/FNPROJECTS) | [YouTube](https://youtube.com/channel/UCezxW4T3jDcmX1bccbsGdNg) | [Gmail](mailto:fnkallekkad@gmail.com)
 
 ### Stats 
 
