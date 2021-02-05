@@ -18,20 +18,11 @@
 
 ### Accounts
 
-<a href="https://github.com/FnKallekkad">
-  <img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://telegram.me/FNPROJECTS">
-  <img align="left" alt="Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://twitter.com/FnKallekkad">
-  <img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:fnkallekkad@gmail.com">
-  <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-
+[GitHub](https://github.com/FnKallekkad)
+[Twitter](https://twitter.com/FnKallekkad)
+[Telegram](https://telegram.me/FNPROJECTS)
+[YouTube](https://youtube.com/channel/UCezxW4T3jDcmX1bccbsGdNg)
+[Gmail](mailto:fnkallekkad@gmail.com)
 
 ### Stats 
 
