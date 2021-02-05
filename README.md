@@ -23,9 +23,9 @@
 ### Stats 
 
 <p align="center">
-  <img width="1000px" src="https://github-readme-stats.vercel.app/api?username=FnKallekkad&theme=tokyonight&show_icons=true" />
+  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=FnKallekkad&theme=tokyonight&show_icons=true" />
 </p>
 <p align="center">
-  <img width="1000px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FnKallekkad&theme=tokyonight&hide_langs_below=1&show_icons=true" />
+  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FnKallekkad&theme=tokyonight&hide_langs_below=1&show_icons=true" />
 </p>
 
