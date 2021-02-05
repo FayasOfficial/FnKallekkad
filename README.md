@@ -15,13 +15,17 @@
 • I am an Indian.
 ```
 
-![Develper Logo](https://www.cloud66.com/static/by_devs_for_devs-59b2731fe1e54f63500a8443e8d2e348.svg)
+<p align="center">
+  <img src="https://www.cloud66.com/static/by_devs_for_devs-59b2731fe1e54f63500a8443e8d2e348.svg" />
+</p>
 
 ### Accounts
 
 [GitHub](https://github.com/FnKallekkad) | [Twitter](https://twitter.com/FnKallekkad) | [Telegram](https://telegram.me/FNPROJECTS) | [YouTube](https://youtube.com/channel/UCezxW4T3jDcmX1bccbsGdNg) | [Gmail](mailto:fnkallekkad@gmail.com)
 
-![Programming Logo](https://www.cloud66.com/static/ops_tools_for_devs-37a156bd1e4b279a8f4407f6f8ec5a59.svg)
+<p align="center">
+  <img src="https://www.cloud66.com/static/ops_tools_for_devs-37a156bd1e4b279a8f4407f6f8ec5a59.svg" />
+</p>
 
 
 ### Stats 
