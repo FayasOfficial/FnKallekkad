@@ -38,4 +38,10 @@
 </p>
 
 
-![Logo 1](https://github.githubassets.com/images/modules/profile/profile-first-pr.svg) ![Logo 2](https://github.githubassets.com/images/modules/profile/profile-joined-github.svg)
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/profile-first-pr.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg" />
+</p>
