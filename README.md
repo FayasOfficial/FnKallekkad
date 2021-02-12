@@ -21,7 +21,7 @@
 
 ### Accounts
 
-[GitHub](https://github.com/FnKallekkad) | [Twitter](https://twitter.com/FnKallekkad) | [Telegram](https://telegram.me/FNPROJECTS) | [YouTube](https://youtube.com/channel/UCezxW4T3jDcmX1bccbsGdNg) | [Gmail](mailto:fnkallekkad@gmail.com)
+[GitHub](https://github.com/FnKerala) | [Twitter](https://twitter.com/FnKerala) | [Telegram](https://telegram.me/FnKerala) | [YouTube](https://youtube.com/channel/UCezxW4T3jDcmX1bccbsGdNg) | [Gmail](mailto:fnkallekkad@gmail.com)
 
 <p align="center">
   <img src="https://www.cloud66.com/static/ops_tools_for_devs-37a156bd1e4b279a8f4407f6f8ec5a59.svg" />
