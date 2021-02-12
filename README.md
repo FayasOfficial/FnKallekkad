@@ -37,3 +37,5 @@
   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FnKerala&theme=tokyonight&hide_langs_below=1&show_icons=true" />
 </p>
 
+
+![Logo 1](https://github.githubassets.com/images/modules/profile/profile-first-pr.svg) ![Logo 2](https://github.githubassets.com/images/modules/profile/profile-joined-github.svg)
