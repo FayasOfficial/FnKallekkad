@@ -21,7 +21,7 @@
 
 ### Accounts
 
-[GitHub](https://github.com/FnKerala) | [Twitter](https://twitter.com/FnKerala) | [Telegram](https://telegram.me/FnKerala) | [YouTube](https://youtube.com/channel/UCezxW4T3jDcmX1bccbsGdNg) | [Gmail](mailto:fnkallekkad@gmail.com)
+[GitHub](https://github.com/FayasNoushad) | [Twitter](https://twitter.com/FayasNoushad) | [Telegram](https://telegram.me/FayasNoushad) | [YouTube](https://youtube.com/channel/UCezxW4T3jDcmX1bccbsGdNg) | [Gmail](mailto:fnkallekkad@gmail.com)
 
 <p align="center">
   <img src="https://www.cloud66.com/static/ops_tools_for_devs-37a156bd1e4b279a8f4407f6f8ec5a59.svg" />
@@ -31,10 +31,10 @@
 ### Stats 
 
 <p align="center">
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=FnKerala&theme=tokyonight&show_icons=true" />
+  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&theme=tokyonight&show_icons=true" />
 </p>
 <p align="center">
-  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FnKerala&theme=tokyonight&hide_langs_below=1&show_icons=true" />
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayasNoushad&theme=tokyonight&hide_langs_below=1&show_icons=true" />
 </p>
 
 
