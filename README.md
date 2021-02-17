@@ -16,7 +16,7 @@
 ```
 
 <p align="center">
-  <img src="https://www.cloud66.com/static/by_devs_for_devs-59b2731fe1e54f63500a8443e8d2e348.svg" />
+  <img width="600px" src="https://www.cloud66.com/static/by_devs_for_devs-59b2731fe1e54f63500a8443e8d2e348.svg" />
 </p>
 
 ### Accounts
@@ -24,7 +24,7 @@
 [GitHub](https://github.com/FayasNoushad) | [Twitter](https://twitter.com/FayasNoushad) | [Telegram](https://telegram.me/FayasNoushad) | [YouTube](https://youtube.com/channel/UCezxW4T3jDcmX1bccbsGdNg) | [Gmail](mailto:fnkallekkad@gmail.com)
 
 <p align="center">
-  <img src="https://www.cloud66.com/static/ops_tools_for_devs-37a156bd1e4b279a8f4407f6f8ec5a59.svg" />
+  <img width="600px" src="https://www.cloud66.com/static/ops_tools_for_devs-37a156bd1e4b279a8f4407f6f8ec5a59.svg" />
 </p>
 
 
