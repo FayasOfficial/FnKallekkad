@@ -21,7 +21,7 @@
 
 ### Accounts
 
-[GitHub](https://github.com/FayasNoushad) | [Twitter](https://twitter.com/FayasNoushad) | [Telegram](https://telegram.me/FayasNoushad) | [YouTube](https://youtube.com/channel/UCezxW4T3jDcmX1bccbsGdNg) | [Gmail](mailto:fnkallekkad@gmail.com)
+[GitHub Account](https://github.com/FayasNoushad) | [Twitter Account](https://twitter.com/FayasNoushad) | [Telegram Account](https://telegram.me/FayasNoushad) | [Telegram Channel](https://telegram.me/FNPROJECTS) | [YouTube Channel](https://youtube.com/channel/UCo3BrCslEn8ru34gTXyfVnQ) | [Gmail](mailto:fayasn2005@gmail.com)
 
 <p align="center">
   <img width="600px" src="https://www.cloud66.com/static/ops_tools_for_devs-37a156bd1e4b279a8f4407f6f8ec5a59.svg" />
