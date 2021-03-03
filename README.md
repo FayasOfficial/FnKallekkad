@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/76828314?s=460&u=13967485f13a669a5d59bf56bd1ca6dba28c008c&v=4" />
+  <img src="https://telegra.ph/file/45e4376ae9cdc880ecbb5.jpg" />
 </p>
 
 
@@ -21,7 +21,7 @@
 
 ### Accounts
 
-[GitHub Account](https://github.com/FayasNoushad) | [Twitter Account](https://twitter.com/FayasNoushad) | [Telegram Account](https://telegram.me/FayasNoushad) | [Telegram Channel](https://telegram.me/FNPROJECTS) | [YouTube Channel](https://youtube.com/channel/UCo3BrCslEn8ru34gTXyfVnQ) | [Gmail](mailto:fayasn2005@gmail.com)
+[GitHub](https://github.com/FayasNoushad) | [Twitter](https://twitter.com/FayasNoushad) | [Telegram Channel](https://telegram.me/FayasNoushad) | [YouTube](https://youtube.com/channel/UCo3BrCslEn8ru34gTXyfVnQ) | [Gmail](mailto:fayasn2005@gmail.com)
 
 <p align="center">
   <img width="600px" src="https://www.cloud66.com/static/ops_tools_for_devs-37a156bd1e4b279a8f4407f6f8ec5a59.svg" />
